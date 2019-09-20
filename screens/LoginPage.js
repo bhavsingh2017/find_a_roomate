@@ -118,6 +118,7 @@ export default class LoginPage extends React.Component{
                 />
                 {this.connectMarkers()}
 
+                
               </MapView>
               <View style={{flex: 1.7}}>
               <DropdownMenu
